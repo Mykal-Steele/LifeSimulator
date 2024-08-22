@@ -1,0 +1,4 @@
+repository "LifeSimulator@Studee2421@cloud"
+  path "/"
+    br "/main"
+    co "/main"
